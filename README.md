@@ -21,9 +21,9 @@
 
 ![image](https://github.com/dayerong/Jenkins/blob/master/screenshots/rollback.png?raw=true)
 
-![image](https://github.com/dayerong/Jenkins/blob/master/screenshots/general_1.png?raw=true)
-
 ![image](https://github.com/dayerong/Jenkins/blob/master/screenshots/general_2.png?raw=true)
+
+![image](https://github.com/dayerong/Jenkins/blob/master/screenshots/general_1.png?raw=true)
 
 ![image](https://github.com/dayerong/Jenkins/blob/master/screenshots/general_3.png?raw=true)
 
